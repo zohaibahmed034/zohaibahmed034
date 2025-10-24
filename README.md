@@ -1,12 +1,11 @@
 <!-- PROFILE HEADER -->
 <h2 align="center">Hello Dosto 👋</h2>
 
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00BFFF&center=true&vCenter=true&lines=%2FAWS+DevOps+Engineer%2F" >
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00BFFF&center=true&vCenter=true&lines=AWS+DevOps+Engineer;DevOps+and+Cloud+Enthusiast;1+Year+Experience" />
 </p>
-
-
-<h4 align="center">Cloud & DevOps Enthusiast | Aspiring Architect</h4>
 
 
 
