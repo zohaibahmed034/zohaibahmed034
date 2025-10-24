@@ -1,7 +1,7 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hello Dosto 👋</h1>
 
-<p align="center">──────────────────────────────────────────────────</p>
+
 
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 
 
-<p align="center">─────────────────────────────────────────────────────────────────────────────────────────────</p>
+<p align="center">────────────────────────────</p>
 
 ### 🚀 About Me
 I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursuing my **Diploma in Artificial Intelligence & Cloud Computing** with **Al Nafi**. I am passionate about **Cloud Infrastructure, DevOps practices, and Artificial Intelligence solutions.**
