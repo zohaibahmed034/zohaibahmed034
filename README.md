@@ -31,16 +31,8 @@ I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursu
 
 ---
 
-### 📊 GitHub Stats  
-
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=ZohaibAhmed034&show_icons=true&theme=tokyonight](https://github.com/ZuhaibAhmed0/helm-charts.git))  
-![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=ZohaibAhmed034&layout=compact&theme=tokyonight](https://github.com/ZuhaibAhmed0/sample-spring-microservices-kubernetes.git))  
-![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=ZohaibAhmed034&theme=tokyonight](https://github.com/ZuhaibAhmed0/example-voting-app.git))  
-
----
-
 ### 🌐 Connect With Me  
-🌍 [LinkedIn](www.linkedin.com/in/zuhaib-ahmed-034)  
+🌍 [LinkedIn]  (www.linkedin.com/in/zuhaibahmed034)  
 📧 Email: zuhaibahmed034@gmail.com  
 
 💡 *“Building the future with Cloud, DevOps & AI – one deployment at a time.”*  
