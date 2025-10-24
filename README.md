@@ -3,8 +3,11 @@
 <h3 align="center">Cloud & DevOps Enthusiast | Aspiring Architect</h3>
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zohaibahmed034/zohaibahmed034/main/aws-devops-slideup.svg" />
+  <h1>Hello Dosto 👋</h1>
+  <img src="(SVG animation link here)" />
+  <h3>Cloud & DevOps Enthusiast | Aspiring Architect</h3>
 </p>
+
 
 ---
 
