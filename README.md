@@ -1,13 +1,13 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hello Dosto 👋</h1>
----
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=1300&color=00BFFF&center=true&vCenter=true&lines=AWS+DevOps+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00BFFF&center=true&vCenter=true&lines=%2FAWS+DevOps+Engineer%2F" />
 </p>
----
+
+
 <h3 align="center">Cloud & DevOps Enthusiast | Aspiring Architect</h3>
 
----
 
 ### 🚀 About Me
 I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursuing my **Diploma in Artificial Intelligence & Cloud Computing** with **Al Nafi**. I am passionate about **Cloud Infrastructure, DevOps practices, and Artificial Intelligence solutions.**
