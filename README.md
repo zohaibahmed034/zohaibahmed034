@@ -1,5 +1,5 @@
 <!-- PROFILE HEADER -->
-<h2 align="center">Hello Dosto 👋</h2>
+<h1 align="center">Hello Dosto 👋</h1>
 
 
 
