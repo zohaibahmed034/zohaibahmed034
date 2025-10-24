@@ -1,6 +1,28 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hello Dosto 👋</h1>
 <h3 align="center">Cloud & DevOps Enthusiast | Aspiring Architect</h3>
+---
+<p class="text-3xl font-mono text-blue-400 mt-2 animate-slideup">
+  AWS DevOps Engineer
+</p>
+
+<style>
+@keyframes slideup {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+    filter: blur(4px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+    filter: blur(0);
+  }
+}
+.animate-slideup {
+  animation: slideup 0.8s ease-out both;
+}
+</style>
 
 ---
 
