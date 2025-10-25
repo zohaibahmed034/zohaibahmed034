@@ -60,11 +60,11 @@ I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursu
 </p>
 
 ---
-
-### 🐍 Rainbow Contribution Snake
+### 🔄 DevOps CI/CD Pipeline
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?palette=github-dark" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/line3.svg" />
 </p>
+
 
 
 
