@@ -60,11 +60,10 @@ I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursu
 </p>
 
 ---
-### ⚙️ DevOps Automation
+### 🐍 Contribution Snake
 <p align="center">
-  <img src="LIVE_DEVOPS_ANIMATION_LINK" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 
 
 ---
