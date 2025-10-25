@@ -62,10 +62,9 @@ I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursu
 ---
 
 
-
-### 💻 Keep Pushing Code, Keep Improving
+### 🚀 DevOps — Build. Automate. Deploy.
 <p align="center">
-  <img src="https://i.imgur.com/ZWx4rMY.png" width="700"/>
+  <img src="https://i.imgur.com/Ghqy0Q2.png" width="700"/>
 </p>
 
 
