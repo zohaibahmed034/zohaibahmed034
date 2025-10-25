@@ -60,11 +60,6 @@ I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursu
 </p>
 
 ---
-   .─────────────────────────────.
-  /  ┌─────────────────────────┐  \
- /   │  DevOps • CI/CD • Cloud  │   \
-/    └─────────────────────────┘    \
-
 
 
 
