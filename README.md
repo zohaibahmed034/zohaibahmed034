@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=8000080&center=true&vCenter=true&lines=AWS+DevOps+Engineer;DevOps+and+Cloud+Enthusiast;1+Year+Experience" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=FF4500&center=true&vCenter=true&lines=AWS+DevOps+Engineer;DevOps+and+Cloud+Enthusiast;1+Year+Experience" />
 </p>
 
 
