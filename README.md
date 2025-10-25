@@ -61,10 +61,13 @@ I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursu
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+## 🏅 GitHub Achievements
+
+![Arctic Code Vault](https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-blue)
+![Pull Shark](https://img.shields.io/badge/Pull%20Shark-Achieved-green)
+![Starstruck](https://img.shields.io/badge/Starstruck-⭐-yellow)
+![Active Contributor](https://img.shields.io/badge/Contributor-Active-orange)
+![Streak](https://img.shields.io/badge/🔥%20GitHub-Streak-red)
 
 
 
