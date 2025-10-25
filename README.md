@@ -61,15 +61,13 @@ I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursu
 
 ---
 
-<h2 align="center">🏅 GitHub Achievements</h2>
-
+### 🌆 GitHub Skyline (3D Contributions)
 <p align="center">
-  🌟 Starstruck &nbsp;|&nbsp;
-  🤝 Pull Shark &nbsp;|&nbsp;
-  🚀 Code Vault &nbsp;|&nbsp;
-  🔥 Streak &nbsp;|&nbsp;
-  📌 Contributor
+  <a href="https://skyline.github.com/zohaibahmed034">
+    <img src="https://img.shields.io/badge/Click%20to%20View-3D%20Skyline-blue?style=for-the-badge" />
+  </a>
 </p>
+
 
 
 
