@@ -64,11 +64,10 @@ I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursu
 
 
 
-### 🧊 3D Contribution Graph
+### 🌊 GitHub Contribution Waves
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/profile-3d-contrib/profile-night-view.svg" />
+  <img src="https://raw.githubusercontent.com/ozanercan/ozanercan/master/wave.svg" />
 </p>
-
 
 
 
