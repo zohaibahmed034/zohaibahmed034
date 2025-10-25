@@ -60,9 +60,12 @@ I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursu
 </p>
 
 ---
-### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<!--
+1. Customize the 'i=' parameter with the technologies you use.
+2. Common DevOps icons include: aws, azure, gcp, kubernetes, docker, terraform, ansible, jenkins, argocd, prometheus, grafana, python, githubactions, gitlab, bash.
+-->
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Daws,kubernetes,docker,terraform,ansible,jenkins,prometheus,grafana,githubactions,python%26theme%3Ddark" alt="DevOps Skill Icons" />
 </p>
 
 
