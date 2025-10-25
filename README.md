@@ -63,10 +63,11 @@ I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursu
 
 
 
-### 👨‍💻 Keep Coding, Keep Contributing
+### 🧩 Contribution Flow
 <p align="center">
-  <img src="https://i.imgur.com/2rw1wQW.gif" width="550"/>
+  <img src="https://i.imgur.com/KK7w9hW.gif" width="550"/>
 </p>
+
 
 ---
 
