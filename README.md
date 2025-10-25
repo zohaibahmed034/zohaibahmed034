@@ -50,11 +50,14 @@ I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursu
 ### 🧰 Stack I Work With  
 
 <div align="center" style="
-  padding: 25px;
-  border-radius: 15px;
-  background: linear-gradient(145deg, #0b0b0b, #1a1a1a);
-  box-shadow: 8px 8px 15px #000000, -8px -8px 15px #2a2a2a;
-  border: 1px solid #222;
+  padding: 30px;
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.06);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.6), 
+              inset 0 0 20px rgba(255, 255, 255, 0.06);
   display: inline-block;
 ">
 
@@ -83,6 +86,7 @@ I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursu
 </p>
 
 </div>
+
 
 
 
