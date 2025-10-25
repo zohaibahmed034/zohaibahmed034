@@ -62,9 +62,10 @@ I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursu
 ---
 
 ### 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=zohaibahmed034&theme=tokyonight&margin-w=10" />
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=zohaibahmed034&theme=flat&row=1&column=7" />
 </p>
+
 
 ---
 
