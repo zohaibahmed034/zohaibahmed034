@@ -64,11 +64,10 @@ I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursu
 
 
 
-### 🧊 3D Contribution Graph
+### 🔥 Contribution Overview
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zohaibahmed034&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zohaibahmed034&show_icons=true&theme=tokyonight" />
 </p>
-
 
 ---
 
