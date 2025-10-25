@@ -68,7 +68,6 @@ I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursu
 <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Daws,kubernetes,docker,terraform,ansible,jenkins,prometheus,grafana,githubactions,python%26theme%3Ddark" alt="DevOps Skill Icons" />
 </p>
 
-
 ---
 
 ### 📈 Activity Graph
