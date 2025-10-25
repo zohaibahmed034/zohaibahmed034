@@ -6,8 +6,10 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&gradient=true&colors=FF0000,FFA500,FFFF00,00FF00,0000FF,4B0082,EE82EE&center=true&vCenter=true&lines=AWS+DevOps+Engineer;DevOps+and+Cloud+Enthusiast;1+Year+Experience" />
+  <img src="https://readme-typing-svg.herokuapp.com?<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=FF1493&center=true&vCenter=true&lines=AWS+DevOps+Engineer;DevOps+and+Cloud+Enthusiast;1+Year+Experience" />
 </p>
+
 
 
 
