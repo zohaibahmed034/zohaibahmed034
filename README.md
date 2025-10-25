@@ -47,46 +47,102 @@ I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursu
 </p>
 
 ---
-### 🧰 Stack I Work With  
+### 🧰 Stack I Work With
 
-<div align="center" style="
-  padding: 30px;
-  border-radius: 18px;
-  background: rgba(255, 255, 255, 0.06);
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.6), 
-              inset 0 0 20px rgba(255, 255, 255, 0.06);
-  display: inline-block;
-">
+<div align="center" style="margin-top:12px;">
 
-<p>
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</p>
+  <!-- Outer container to center and provide overall 3D depth -->
+  <div style="
+    display:inline-block;
+    padding:18px;
+    border-radius:16px;
+    background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
+    box-shadow:
+      0 18px 40px rgba(2,6,23,0.65),
+      0 6px 18px rgba(2,6,23,0.45),
+      inset 0 1px 0 rgba(255,255,255,0.02);
+    border: 1px solid rgba(255,255,255,0.04);
+  ">
 
-<p>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+    <!-- Floating row 1 -->
+    <div style="
+      display:block;
+      margin: 8px auto;
+      padding:12px 22px;
+      border-radius:12px;
+      background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
+      box-shadow: 0 10px 22px rgba(3,8,30,0.55), 0 3px 8px rgba(3,8,30,0.35);
+      border: 1px solid rgba(255,255,255,0.03);
+      backdrop-filter: blur(6px);
+      -webkit-backdrop-filter: blur(6px);
+      width: 760px;
+      text-align:center;
+    ">
+      <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+    </div>
 
-<p>
-  <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-</p>
+    <!-- Floating row 2 -->
+    <div style="
+      display:flex;
+      gap:12px;
+      justify-content:center;
+      align-items:center;
+      margin: 14px auto;
+      padding:12px 16px;
+      border-radius:12px;
+      background: linear-gradient(180deg, rgba(255,255,255,0.015), rgba(255,255,255,0.005));
+      box-shadow: 0 12px 26px rgba(3,8,30,0.5);
+      border: 1px solid rgba(255,255,255,0.02);
+      width: 760px;
+    ">
+      <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    </div>
 
-<p>
-  <img src="https://img.shields.io/badge/-CloudFoundry-0C9ED5?style=for-the-badge&logo=cloudfoundry&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-</p>
+    <!-- Floating row 3 -->
+    <div style="
+      display:flex;
+      gap:12px;
+      justify-content:center;
+      align-items:center;
+      margin: 14px auto;
+      padding:12px 16px;
+      border-radius:12px;
+      background: linear-gradient(180deg, rgba(255,255,255,0.015), rgba(255,255,255,0.005));
+      box-shadow: 0 12px 26px rgba(3,8,30,0.45);
+      border: 1px solid rgba(255,255,255,0.02);
+      width: 760px;
+    ">
+      <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+    </div>
 
+    <!-- Floating row 4 -->
+    <div style="
+      display:flex;
+      gap:10px;
+      justify-content:center;
+      align-items:center;
+      margin: 14px auto 6px auto;
+      padding:12px 12px;
+      border-radius:12px;
+      background: linear-gradient(180deg, rgba(255,255,255,0.015), rgba(255,255,255,0.005));
+      box-shadow: 0 12px 26px rgba(3,8,30,0.45);
+      border: 1px solid rgba(255,255,255,0.02);
+      width: 760px;
+      flex-wrap:wrap;
+    ">
+      <img src="https://img.shields.io/badge/-CloudFoundry-0C9ED5?style=for-the-badge&logo=cloudfoundry&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+      <img src="https://img.shields.io/badge/-OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+      <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+    </div>
+
+  </div>
 </div>
-
 
 
 
