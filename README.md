@@ -60,13 +60,11 @@ I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursu
 </p>
 
 ---
-
-### 🌆 GitHub Skyline (3D Contributions)
+### 🔥 Contribution Activity
 <p align="center">
-  <a href="https://skyline.github.com/zohaibahmed034">
-    <img src="https://img.shields.io/badge/Click%20to%20View-3D%20Skyline-blue?style=for-the-badge" />
-  </a>
+  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
+
 
 
 
