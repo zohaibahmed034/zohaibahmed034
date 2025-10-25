@@ -60,6 +60,9 @@ I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursu
 </p>
 
 ---
+<p align="center">
+  <img src="devops-automation.svg" width="900" />
+</p>
 
 
 
