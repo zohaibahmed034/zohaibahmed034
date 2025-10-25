@@ -63,8 +63,16 @@ I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursu
 
 ### 🏅 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api/svg?username=zohaibahmed034" width="600px">
+  Here are some of my GitHub achievements showcasing my contributions and milestones.
 </p>
+
+<p align="center">
+  🔹 Public Repositories  
+  🔹 Pull Requests & Issues  
+  🔹 Stars & Contributions  
+  🔹 Commit Activity & Consistency  
+</p>
+
 
 
 
