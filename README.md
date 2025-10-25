@@ -63,10 +63,9 @@ I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursu
 
 
 
-
-### 🔥 Contribution Overview
+### 👨‍💻 Keep Coding, Keep Contributing
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zohaibahmed034&show_icons=true&theme=tokyonight" />
+  <img src="https://i.imgur.com/2rw1wQW.gif" width="550"/>
 </p>
 
 ---
