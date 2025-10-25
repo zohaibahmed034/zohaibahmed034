@@ -63,9 +63,9 @@ I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursu
 
 
 
-### 🔄 DevOps Journey Never Stops
+### 💻 Keep Pushing Code, Keep Improving
 <p align="center">
-  <img src="https://i.imgur.com/XcQ8o0E.gif" width="600"/>
+  <img src="https://i.imgur.com/ZWx4rMY.png" width="700"/>
 </p>
 
 
