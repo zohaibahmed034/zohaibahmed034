@@ -61,13 +61,16 @@ I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursu
 
 ---
 
-## 🏅 GitHub Achievements
+<h2 align="center">🏅 GitHub Achievements</h2>
 
-![Arctic Code Vault](https://img.shields.io/badge/Arctic%20Code%20Vault-Contributor-blue)
-![Pull Shark](https://img.shields.io/badge/Pull%20Shark-Achieved-green)
-![Starstruck](https://img.shields.io/badge/Starstruck-⭐-yellow)
-![Active Contributor](https://img.shields.io/badge/Contributor-Active-orange)
-![Streak](https://img.shields.io/badge/🔥%20GitHub-Streak-red)
+<p align="center">
+  🌟 Starstruck &nbsp;|&nbsp;
+  🤝 Pull Shark &nbsp;|&nbsp;
+  🚀 Code Vault &nbsp;|&nbsp;
+  🔥 Streak &nbsp;|&nbsp;
+  📌 Contributor
+</p>
+
 
 
 
