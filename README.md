@@ -47,22 +47,33 @@ I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursu
 </p>
 
 ---
-
 ### 🧰 Stack I Work With  
 
-<p align="center">
+<div align="center" style="
+  padding: 25px;
+  border-radius: 15px;
+  background: linear-gradient(145deg, #0b0b0b, #1a1a1a);
+  box-shadow: 8px 8px 15px #000000, -8px -8px 15px #2a2a2a;
+  border: 1px solid #222;
+  display: inline-block;
+">
+
+<p>
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
-<p align="center">
+
+<p>
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-<p align="center">
+
+<p>
   <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
 </p>
-<p align="center">
+
+<p>
   <img src="https://img.shields.io/badge/-CloudFoundry-0C9ED5?style=for-the-badge&logo=cloudfoundry&logoColor=white" />
   <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/-OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
@@ -70,6 +81,9 @@ I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursu
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
+
+</div>
+
 
 
 
