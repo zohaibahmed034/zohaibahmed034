@@ -60,9 +60,9 @@ I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursu
 </p>
 
 ---
-### 🔄 DevOps CI/CD Pipeline
+### 🚀 DevOps Automation Flow
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/line3.svg" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/line1.svg" />
 </p>
 
 
