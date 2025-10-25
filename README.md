@@ -61,18 +61,10 @@ I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursu
 
 ---
 
-### 🏅 GitHub Achievements
+### 🐍 Contribution Snake
 <p align="center">
-  Here are some of my GitHub achievements showcasing my contributions and milestones.
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-<p align="center">
-  🔹 Public Repositories  
-  🔹 Pull Requests & Issues  
-  🔹 Stars & Contributions  
-  🔹 Commit Activity & Consistency  
-</p>
-
 
 
 
