@@ -140,8 +140,6 @@ I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursu
 </div>
 
 
-
-
 ---
 
 ### 📊 GitHub Stats
@@ -153,15 +151,6 @@ I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursu
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zohaibahmed034&theme=tokyonight" height="200px"/>
-</p>
-
----
-### 🐍 Contribution Snake
-
-<p align="center">
-
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
 </p>
 
 ---
