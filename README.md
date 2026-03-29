@@ -1,5 +1,5 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">👋 Hello Dosto, I'm <span style="color:#00BFFF">Zohaib Ahmed</span></h1>
+<h1 align="center"> Hi, I'm <span style="color:#00BFFF">Zohaib Ahmed</span></h1>
 
 
 
