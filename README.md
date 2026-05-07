@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00FF00&center=true&vCenter=true&lines=AWS+DevOps+Engineer;DevOps+and+Cloud+Enthusiast;1+Year+Experience" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00FF00&center=true&vCenter=true&lines=AWS+DevOps+Engineer;DevOps+and+Cloud+Enthusiast;1++Year+Experience" />
 </p>
 
 
@@ -16,7 +16,7 @@
 <p align="center">────────────────────────────</p>
 
 ### 🚀 About Me
-I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently pursuing my **Diploma in Artificial Intelligence & Cloud Computing** with **Al Nafi**. I am passionate about **Cloud Infrastructure, DevOps practices, and Artificial Intelligence solutions.**
+I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently working as a * Devops & Cloud Engineer**. I am passionate about **Cloud Infrastructure, DevOps practices, and security solutions.**
 
 - 🔭 **Currently working on:**
   - Mounting Public Cloud to Private On-Premises Datacenter
