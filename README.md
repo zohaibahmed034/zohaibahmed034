@@ -16,7 +16,7 @@
 <p align="center">────────────────────────────</p>
 
 ### 🚀 About Me
-I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently working as a * Devops & Cloud Engineer**. I am passionate about **Cloud Infrastructure, DevOps practices, and security solutions.**
+I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently working as a **Devops & Cloud Engineer**. I am passionate about **Cloud Infrastructure, DevOps practices, and security solutions.**
 
 - 🔭 **Currently working on:**
   - Mounting Public Cloud to Private On-Premises Datacenter
