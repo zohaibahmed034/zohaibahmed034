@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00FF00&center=true&vCenter=true&lines=Multi+Cloud+DevOps+Engineer;DevOps+and+Cloud+Enthusiast;~2+Year+Experience" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00FF00&center=true&vCenter=true&lines=Multi+Cloud+DevOps+Engineer;DevOps+and+Cloud+Enthusiast;2+Year+Experience" />
 </p>
 
 
