@@ -16,7 +16,7 @@
 <p align="center">────────────────────────────</p>
 
 ### 🚀 About Me
-I’m **Zohaib Ahmed**, currently working as a **Devops & Cloud Engineer**. I am passionate about **Bridging the gap between rapid development, automation, and rock-solid stability.**
+I’m **Zohaib Ahmed**, currently working as a **Devops & Cloud Architect**. I am passionate about **Bridging the gap between rapid development, automation, and rock-solid stability.**
 
 - 🔭 **Currently working on:**
   - Focused on DevOps, Cloud Engineering, Kubernetes, Docker, Terraform, CI/CD, and DevSecOps.
