@@ -16,15 +16,15 @@
 <p align="center">────────────────────────────</p>
 
 ### 🚀 About Me
-I’m **Zohaib Ahmed**, an aspiring **DevOps & Cloud Engineer**, currently working as a **Devops & Cloud Engineer**. I am passionate about **Cloud Infrastructure, DevOps practices, and security solutions.**
+I’m **Zohaib Ahmed**, currently working as a **Devops & Cloud Engineer**. I am passionate about **Bridging the gap between rapid development, automation, and rock-solid stability.**
 
 - 🔭 **Currently working on:**
-  - Mounting Public Cloud to Private On-Premises Datacenter
+  - Focused on DevOps, Cloud Engineering, Kubernetes, Docker, Terraform, CI/CD, and DevSecOps.
   - Deploying a 3-Tier Website using Kubernetes & Docker
-- 🌱 **Always learning:** AWS, Azure, Cloud-Native Solutions, AI/ML & DevOps Pipelines
-- 👯 **Open to collaborate on:** Cloud, DevOps, and AI/ML projects
-- 💬 **Ask me about:** AWS, Kubernetes, Docker, Terraform, Python, CI/CD, AI/ML
-- ⚡ **Fun fact:** I love sharing my learning journey on LinkedIn to inspire others 🚀
+  - AWS, Azure, Cloud-Native Solutions, AI/ML & DevOps Pipelines
+ -  Cloud, DevOps, and AI/ML projects
+ -  AWS, Kubernetes, Docker, Terraform, Python, CI/CD, AI/ML
+ -  Bridging the gap between rapid development, automation, and rock-solid stability.
 
 ---
 
